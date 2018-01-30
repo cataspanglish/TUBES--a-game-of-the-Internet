@@ -15,45 +15,45 @@ To understand that the Internet is physical infrastructure, that data is copied 
 ![Image](https://github.com/cataspanglish/TUBES--a-game-of-the-Internet/blob/master/tubesboard.JPG)
 
 
-1 game board
+*1 game board
 
-6 x player avatars
+*6 x player avatars
 
-1x baseboard per avatar
+*1 x baseboard per avatar
 
-3 x transparent life pieces per avatar
+*3 x transparent life pieces per avatar
 
-1x data center
+*1x data center
 
-5 x Internet cables
+*5 x Internet cables
 
-5x grey routers (lego blocks)
+*5 x grey routers (lego blocks)
 
-1x black baseboard for lost life pieces
+*1 x black baseboard for lost life pieces
 
-1 x numbered dice
+*1 x numbered dice
 
-1x colour dice (red/green)
+*1x colour dice (red/green)
 
-210 x red data blocks
+*210 x red data blocks
 
-60 x small red counters
+*60 x small red counters
 
-10 x large red counters
+*10 x large red counters
 
-210 x green data blocks
+*210 x green data blocks
 
-60 x small green counters
+*60 x small green counters
 
-10 x large green counters
+*10 x large green counters
 
-6 x blue “BEE SECURE APP” blocks
+*6 x blue “BEE SECURE APP” blocks
 
-6 x PowerUp cards (smiley)
+*6 x PowerUp cards (smiley)
 
-6 x ”Oh No!” cards (angry)
+*6 x ”Oh No!” cards (angry)
 
-1 x legend explaining actions to be taken when landing on a square with an emoji
+*1 x legend explaining actions to be taken when landing on a square with an emoji
 
 
 
