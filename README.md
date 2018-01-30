@@ -57,8 +57,8 @@ To understand that the Internet is physical infrastructure, that data is copied 
 
 ## Set up
 
-Board will be set up following the illustrations 
-Players put their avatars on the START square
+Board will be set up following the illustrations   
+Players put their avatars on the START square  
 Youngest player goes first.
 
 
