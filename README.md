@@ -12,6 +12,8 @@ To understand that the Internet is physical infrastructure, that data is copied 
 
 
 ## Game parts
+![Image](https://github.com/cataspanglish/TUBES--a-game-of-the-Internet/blob/master/tubesboard.JPG)
+
 
 1 game board
 
