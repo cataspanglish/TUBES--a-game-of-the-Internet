@@ -1,9 +1,9 @@
 TUBES – A Game Of The Internet
 =======
 
-
-
 Objective
+## 
+
 To understand that the Internet is physical infrastructure, that data is copied into data centers and behaviour on the network is both observed and can have consequences.
 
 
