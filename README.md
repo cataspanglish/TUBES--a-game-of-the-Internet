@@ -1,17 +1,17 @@
 TUBES – A Game Of The Internet
 =======
 
-Objective
-## 
+
+## Objective
 
 To understand that the Internet is physical infrastructure, that data is copied into data centers and behaviour on the network is both observed and can have consequences.
 
 
-Time
+## Time
 20 mins +/-
 
 
-Game parts
+## Game parts
 
 1 game board
 
@@ -55,7 +55,7 @@ Game parts
 
 
 
-Set up
+## Set up
 
 Board will be set up following the illustrations 
 Players put their avatars on the START square
@@ -64,7 +64,7 @@ Youngest player goes first.
 
 
 
-Game play
+## Game play
 
 Each player throws dice and moves their avatar corresponding number of squares, following instructions on board.
 
@@ -92,14 +92,14 @@ If a player lands on the BEE SECURE app square, they take one blue block from th
 
 
 
-Winning
+## Winning
 
 When the first player reaches FINISH the game is over, that player either gets a life back, or if they all lives, a green message counter. The coloured counters and remaining lives are then counted. The player with the most green counters and remaining lives is the winner.
 
 
 
 
-Tubes Credits
+## Tubes Credits
 
 Game conceived by Chris Pinchen,  co-created and developed by Chris Pinchen, Jaiden Sreenivasan and Zygi Virsalis, students from the International School of Luxembourg.
 
