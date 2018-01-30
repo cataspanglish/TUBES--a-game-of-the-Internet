@@ -52,11 +52,14 @@ Game parts
 1 x legend explaining actions to be taken when landing on a square with an emoji
 
 
+
 Set up
 
 Board will be set up following the illustrations 
 Players put their avatars on the START square
-Youngest player goes first. 
+Youngest player goes first.
+
+
 
 
 Game play
@@ -85,9 +88,13 @@ When a player lands on the PowerUp square they take a powerup card (smiley) and 
 If a player lands on the BEE SECURE app square, they take one blue block from the data centre, put it onto their baseboard and follow the instructions on the legend.
 
 
+
+
 Winning
 
 When the first player reaches FINISH the game is over, that player either gets a life back, or if they all lives, a green message counter. The coloured counters and remaining lives are then counted. The player with the most green counters and remaining lives is the winner.
+
+
 
 
 Tubes Credits
