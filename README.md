@@ -12,24 +12,43 @@ Time
 Game parts
 
 1 game board
+
 6 x player avatars
+
 1x baseboard per avatar
+
 3 x transparent life pieces per avatar
+
 1x data center
+
 5 x Internet cables
+
 5x grey routers (lego blocks)
+
 1x black baseboard for lost life pieces
+
 1 x numbered dice
+
 1x colour dice (red/green)
+
 210 x red data blocks
+
 60 x small red counters
+
 10 x large red counters
+
 210 x green data blocks
+
 60 x small green counters
+
 10 x large green counters
+
 6 x blue “BEE SECURE APP” blocks
+
 6 x PowerUp cards (smiley)
+
 6 x ”Oh No!” cards (angry)
+
 1 x legend explaining actions to be taken when landing on a square with an emoji
 
 
@@ -43,10 +62,26 @@ Youngest player goes first.
 Game play
 
 Each player throws dice and moves their avatar corresponding number of squares, following instructions on board.
+
 When a player lands on an emoji square, they consult the legend and follow the instructions.
-When player lands on a ROUTER square they nominate another player to receive a message then throw the red/green dice. If the dice is red they send  a “bad” message, if green they send a  “good” message. The message is sent by the player taking an appropriately coloured block and moving it along the tubes to the data center, where it is placed. They then send on an appropriately coloured counter to the recipient. The sender also takes either a small red or green counter. If the player has sent a “bad” message, they lose a “life” piece which is placed on the black baseboard. If they lose all 3 life pieces, they must return to the START but retain all message counters they have gotten until that moment.
+
+When player lands on a ROUTER square they nominate another player to receive a message then throw the red/green dice. 
+
+If the dice is red they send  a “bad” message, if green they send a  “good” message. 
+The message is sent by the player taking an appropriately coloured block and moving it along the tubes to the data center, where it is placed. 
+
+They then send on an appropriately coloured counter to the recipient.
+
+The sender also takes either a small red or green counter. 
+
+If the player has sent a “bad” message, they lose a “life” piece which is placed on the black baseboard. 
+
+If they lose all 3 life pieces, they must return to the START but retain all message counters they have gotten until that moment.
+
 If a player has 10 small red or green counters, they exchange them for a larger counter of the same colour and the 10 pieces go back into the the counter bag.
-When a player lands on the PowerUp square they take a powerup card (smiley) and follow the instructions. Similarly,  they do the same thing if they land on the “Oh No!” (angry) square. The card is then placed at the bottom of the pack.
+
+When a player lands on the PowerUp square they take a powerup card (smiley) and follow the instructions. Similarly, they do the same thing if they land on the “Oh No!” (angry) square. The card is then placed at the bottom of the pack.
+
 If a player lands on the BEE SECURE app square, they take one blue block from the data centre, put it onto their baseboard and follow the instructions on the legend.
 
 
