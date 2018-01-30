@@ -8,7 +8,7 @@ To understand that the Internet is physical infrastructure, that data is copied 
 
 
 ## Time
-20 mins +/-
+**20 mins +/-**
 
 
 ## Game parts
@@ -61,7 +61,7 @@ To understand that the Internet is physical infrastructure, that data is copied 
 
 Board will be set up following the illustrations   ![Image](https://github.com/cataspanglish/TUBES--a-game-of-the-Internet/blob/master/tubes.JPG)
 Players put their avatars on the START square  
-Youngest player goes first.
+**Youngest** player goes first.
 
 
 
@@ -72,9 +72,9 @@ Each player throws dice and moves their avatar corresponding number of squares, 
 
 When a player lands on an emoji square, they consult the legend and follow the instructions.
 
-When player lands on a ROUTER square they nominate another player to receive a message then throw the red/green dice. 
+When player lands on a **ROUTER** square they nominate another player to receive a message then throw the red/green dice. 
 
-If the dice is red they send  a “bad” message, if green they send a  “good” message. 
+If the dice is red they send  a **“bad”** message, if green they send a  **“good”** message. 
 The message is sent by the player taking an appropriately coloured block and moving it along the tubes to the data center, where it is placed. 
 
 They then send on an appropriately coloured counter to the recipient.
@@ -87,7 +87,7 @@ If they lose all 3 life pieces, they must return to the START but retain all mes
 
 If a player has 10 small red or green counters, they exchange them for a larger counter of the same colour and the 10 pieces go back into the the counter bag.
 
-When a player lands on the PowerUp square they take a powerup card (smiley) and follow the instructions. Similarly, they do the same thing if they land on the “Oh No!” (angry) square. The card is then placed at the bottom of the pack.
+When a player lands on the **PowerUp square** they take a powerup card (smiley) and follow the instructions. Similarly, they do the same thing if they land on the **“Oh No!”** (angry) square. The card is then placed at the bottom of the pack.
 
 If a player lands on the BEE SECURE app square, they take one blue block from the data centre, put it onto their baseboard and follow the instructions on the legend.
 
@@ -96,7 +96,7 @@ If a player lands on the BEE SECURE app square, they take one blue block from th
 
 ## Winning
 
-When the first player reaches FINISH the game is over, that player either gets a life back, or if they all lives, a green message counter. The coloured counters and remaining lives are then counted. The player with the most green counters and remaining lives is the winner.
+When the first player reaches **FINISH** the game is over, that player either gets a life back, or if they all lives, a green message counter. The coloured counters and remaining lives are then counted. The player with the most green counters and remaining lives is the winner.
 
 
 
